@@ -13,4 +13,4 @@ dependencies = ["numpy"]
 test = ["pytest"]
 
 [tool.hatch]
-version.path = "src/example_package_YOUR_USERNAME_HERE/__init__.py"
+version.path = "src/example_package_nkalauni/__init__.py"
